@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/bin/Debug/net5.0/Caculate.deps.json
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/bin/Debug/net5.0/Caculate.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/bin/Debug/net5.0/Caculate.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/bin/Debug/net5.0/Caculate.dll
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/bin/Debug/net5.0/ref/Caculate.dll
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/bin/Debug/net5.0/Caculate.pdb
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/Caculate.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/Caculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/Caculate.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/Caculate.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/Caculate.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/Caculate.dll
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/ref/Caculate.dll
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/Caculate.pdb
+/Users/nguyenminhtri/RiderProjects/Caculate/Caculate/obj/Debug/net5.0/Caculate.genruntimeconfig.cache
